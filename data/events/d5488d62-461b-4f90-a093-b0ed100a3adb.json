@@ -1,0 +1,28 @@
+{
+  "audiovisual_files": {
+    "5a859114-6dac-461a-aef1-e3a44c6febb1": {
+      "label": "Theoretical Theatre",
+      "is_offline": false,
+      "file_url": "http://ia601500.us.archive.org/20/items/Oana-theoretical-theatre/Avasilichioaei%20%22Theoretical%20Theatre%22.mp3",
+      "duration": 133
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "Avasilichioaei, Oana. \"Theoretical Theatre.\"",
+  "item_type": "Audio",
+  "label": "Theoretical Theatre",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This is a reading of the poem \"Theoretical Theatre\" by the poet Oana Avasilichioaei. "
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-02-28T20:24:34.060Z",
+  "created_by": "vmudryk1",
+  "updated_at": "2025-02-28T20:24:34.060Z",
+  "updated_by": "vmudryk1"
+}
